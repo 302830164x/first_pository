@@ -1,0 +1,17 @@
+# 登录页定位
+账号: xpath==//*[@id="mobile"]
+密码: xpath==//*[@id="password"]
+登录按钮: xpath==//*[@type='submit']
+登录失败: xpath==//*[@class='ant-form-explain']
+
+# 首页定位
+个人信息: xpath==//*[@class='navigation-menu']
+其他信息: xpath==//*[@data-icon='question-circle']
+首页-气泡: xpath==//*[@class='ant-popover-inner-content']
+首页-编辑按钮: xpath==/html/body/div[1]/div/section/section/main/div/div/div/idv/idv/div/form/div/div/div[2]/div/div/div/div[2]/div[2]
+首页-取消按钮: xpath==//button[@class='ant-btn']
+项目推送: link_text==项目推送
+首页: link_text==首页
+
+# 项目推送
+筛选项: xpath==//*[@class='ant-select-selection-selected-value']

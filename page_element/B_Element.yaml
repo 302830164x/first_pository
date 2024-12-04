@@ -1,0 +1,223 @@
+# 登录页原始定位
+后台登录页: xpath==//*[@id="root"]/div/section/footer/p
+账号: xpath==//*[@id="mobile"]
+密码: xpath==//*[@id="password"]
+登录按钮: xpath==//*[@type="submit"]
+登录失败: xpath==//*[@class="ant-form-explain"]
+
+登录成功: xpath==//*[@id="sideContent"]/ul/li[1]/a/span
+
+退出登录: xpath==//header[@class='ant-layout-header']//li[2]
+确认退出: xpath==//body/div[3]/div/div[2]/div/div[2]/div/div/div[2]/button[2]
+
+一级导航栏: xpath==//*[@class="ant-menu ant-menu-light ant-menu-root ant-menu-inline"]/li
+
+首页: link_text==首页
+功能介绍: link_text==功能介绍
+个人中心: link_text==个人中心
+通讯录: link_text==通讯录
+通知中心: link_text==通知中心
+审批中心: link_text==审批中心
+外出计划: link_text==外出计划
+
+客户工作台: xpath==//span[contains(text(), '客户工作台')]
+客户工作台-全部客户: link_text==全部客户
+客户工作台-我的客户: link_text==我的客户
+客户工作台-新客户: link_text==新客户
+客户工作台-管制客户: xpath==//span[contains(text(), '管制客户')]
+客户工作台-管制客户-管制查询: link_text==管制查询
+客户工作台-客户信用: xpath==//span[contains(text(), '客户信用')]
+客户工作台-客户信用-授信客户: link_text==授信客户
+客户工作台-客户信用-账期订单审核: link_text==账期订单审核
+客户工作台-客户信用-核销清单: link_text==核销清单
+客户工作台-采集信息客户池: link_text==采集信息客户池
+客户工作台-PCN、EOL通知: xpath==//span[contains(text(), 'PCN、EOL通知')]
+客户工作台-PCN、EOL通知-客户通知池: link_text==客户通知池
+客户工作台-PCN、EOL通知-未分发客户: link_text==未分发客户
+客户工作台-PCN、EOL通知-型号确认池: link_text==型号确认池
+客户工作台-活动营销: link_text==活动营销
+客户工作台-添加移除标签: link_text==添加移除标签
+
+供应商工作台: xpath==//span[contains(text(), '供应商工作台')]
+供应商工作台-全部供应商: link_text==全部供应商
+供应商工作台-我的供应商: link_text==我的供应商
+供应商工作台-供应商评价体系: link_text==供应商评价体系
+供应商工作台-邮件模板管理: link_text==邮件模板管理
+供应商工作台-品牌管理: link_text==品牌管理
+研讨会数据: link_text==研讨会数据
+采购订单: link_text==采购订单
+价格与报价管理: xpath==//span[contains(text(), '价格与报价管理')]
+价格与报价管理-常用外汇汇率: link_text==常用外汇汇率
+价格与报价管理-SRP价格: link_text==SRP价格
+价格与报价管理-SRP价格(销售): link_text==SRP价格(销售)
+价格与报价管理-SBC价格: link_text==SBC价格
+价格与报价管理-SRP待办池: link_text==SRP待办池
+价格与报价管理-SBC待办池: link_text==SBC待办池
+价格与报价管理-销售报价管理: link_text==销售报价管理
+价格与报价管理-市场报价管理: link_text==市场报价管理
+项目工作台: xpath==//span[contains(text(), '项目工作台')]
+项目工作台－推荐给我的项目/需求: link_text==推荐给我的项目/需求
+项目工作台－未响应项目/需求: link_text==未响应项目/需求
+项目工作台－推荐引擎: link_text==推荐引擎
+项目工作台－优选型号推荐: link_text==优选型号推荐
+项目工作台－全部项目: link_text==全部项目
+项目工作台－我的项目: link_text==我的项目
+项目工作台－新项目: link_text==新项目
+项目工作台－全部需求/方案: link_text==全部需求/方案
+项目工作台－方案分享池: link_text==方案分享池
+项目工作台－方案进度池: link_text==方案进度池
+项目工作台－项目型号库: link_text==项目型号库
+项目工作台－批量更新DR: link_text==批量更新DR
+项目工作台－DR处理池: link_text==DR处理池
+项目工作台－DR项目: link_text==DR项目
+项目工作台－事务项目: link_text==事务项目
+店铺: xpath==//span[contains(text(), '店铺')]
+店铺-店铺管理: link_text==店铺管理
+店铺-售卖管理: link_text==售卖管理
+商品: xpath==//span[contains(text(), '商品')]
+商品-商品管理: link_text==商品管理
+商品-库存管理: link_text==库存管理
+商品-商品标签: link_text==商品标签
+商品-商品促销: link_text==商品促销
+商品-仓库管理: link_text==仓库管理
+商品-运费管理: link_text==运费管理
+服务管理: xpath==//span[contains(text(), '服务管理')]
+服务管理－服务工作台: link_text==服务工作台
+服务管理－研发需求池: link_text==研发需求池
+服务管理－商务需求池: link_text==商务需求池
+服务管理－服务新增: link_text==服务新增
+服务管理－服务部署: link_text==服务部署
+服务管理－亚洲服务新增: link_text==亚洲服务新增
+服务管理－实验室预约处理: link_text==实验室预约处理
+服务管理－材料定制: link_text==材料定制
+服务管理－供应商合作申请: link_text==供应商合作申请
+服务管理－招募服务处理: link_text==招募服务处理
+服务管理－服务未满足: link_text==服务未满足
+服务管理－样品申请: link_text==样品申请
+服务管理－新样品申请: link_text==新样品申请
+服务管理－询价&询交期未满足: link_text==询价&询交期未满足
+服务管理－选型帮助未满足: link_text==选型帮助未满足
+服务管理－奖品服务: link_text==奖品服务
+服务管理－呼叫系统: link_text==呼叫系统
+服务管理－客服坐席管理: link_text==客服坐席管理
+服务管理－资源工作台: link_text==资源工作台
+服务管理－中车EDI: link_text==中车EDI
+服务管理－服务记录: xpath==//span[contains(text(), '服务记录')]
+服务管理－服务记录－记录查询: link_text==记录查询
+服务管理－服务记录－记录导入: link_text==记录导入
+服务管理－服务记录－服务类型管理: link_text==服务类型管理
+选型帮助: xpath==//span[contains(text(), '选型帮助')]
+选型帮助－新增选型帮助: link_text==新增选型帮助
+选型帮助－选型帮助技术处理池: link_text==选型帮助技术处理池
+选型帮助－选型帮助商务处理池: link_text==选型帮助商务处理池
+选型帮助－不通过选型帮助: link_text==不通过选型帮助
+替代推荐: xpath==//span[contains(text(), '替代推荐')]
+替代推荐－新增替代推荐: link_text==新增替代推荐
+替代推荐－替代推荐处理池: link_text==替代推荐处理池
+替代推荐－替代推荐商务处理池: link_text==替代推荐商务处理池
+替代推荐－不通过替代推荐: link_text==不通过替代推荐
+ON管理: xpath==//span[contains(text(), 'ON管理')]
+ON管理－ON管理: link_text==ON管理
+ON管理－ON服务商信息: link_text==ON服务商信息
+ON管理－ON多语言管理: link_text==ON多语言管理
+ON管理－ON服务商信息Ex: link_text==ON服务商信息Ex
+ON管理－ON审核: link_text==ON审核
+ON管理－资料关联ON: link_text==资料关联ON
+ON管理－型号参数校对: link_text==型号参数校对
+ON管理－ON重量和尺寸维护: link_text==ON重量和尺寸维护
+ON管理－库存管理: link_text==库存管理
+ON管理－预期库存检查表: link_text==预期库存检查表
+ON管理－库存检查: link_text==库存检查
+ON管理－快购设置: link_text==快购设置
+ON管理－促销管理: link_text==促销管理
+ON管理－客户物料: link_text==客户物料
+ON管理－交易受限型号: link_text==交易受限型号
+ON管理－发货地管理: link_text==发货地管理
+ON管理－第一次消费ON清单: link_text==第一次消费ON清单
+ON管理－第一次消费ON待办池: link_text==第一次消费ON待办池
+ON管理－我的文件库: link_text==我的文件库
+ON管理－ON工作台: link_text==ON工作台
+ON管理－新增数据查询: link_text==新增数据查询
+订单与应收管理: xpath==//span[contains(text(), '订单与应收管理')]
+订单与应收管理－我的订单: link_text==我的订单
+订单与应收管理－潜在异常: link_text==潜在异常
+订单与应收管理－问题供应: link_text==问题供应
+订单与应收管理－问题订单: link_text==问题订单
+订单与应收管理－我的小量快购订单: link_text==我的小量快购订单
+订单与应收管理－小量快购订单池: link_text==小量快购订单池
+订单与应收管理－SO待办池: link_text==SO待办池
+订单与应收管理－物流信息查询: link_text==物流信息查询
+订单与应收管理－资金流水: link_text==资金流水
+订单与应收管理－应收账款工作台: link_text==应收账款工作台
+订单与应收管理－发票池: link_text==发票池
+标签管理: xpath==//span[contains(text(), '标签管理')]
+标签管理－标签模板: link_text==标签模板
+标签管理－模板管理: link_text==模板管理
+标签管理－API数据集: link_text==API数据集
+标签管理－商品标签管理: link_text==商品标签管理
+标签管理－标签打印: link_text==标签打印
+内容管理: xpath==//span[contains(text(), '内容管理')]
+内容管理－文章管理: link_text==文章管理
+内容管理－资料管理: link_text==资料管理
+内容管理－公告管理: link_text==公告管理
+内容管理－代理协议管理: link_text==代理协议管理
+内容管理－视频素材管理: link_text==视频素材管理
+内容管理－视频成品管理: link_text==视频成品管理
+内容管理－选型器: link_text==选型器
+内容管理－对照表: link_text==对照表
+统计报表: xpath==//span[contains(text(), '统计报表')]
+统计报表－数字营销: link_text==数字营销
+统计报表－服务统计: link_text==服务统计
+统计报表－数据统计通用工具: link_text==数据统计通用工具
+统计报表－页面统计: link_text==页面统计
+统计报表－会员统计: link_text==会员统计
+统计报表－定制统计: link_text==定制统计
+统计报表－品牌资源统计: link_text==品牌资源统计
+统计报表－ON运营台: link_text==ON运营台
+统计报表－ON资源统计: link_text==ON资源统计
+统计报表－服务内容统计: link_text==服务内容统计
+统计报表－服务资源统计: link_text==服务资源统计
+统计报表－资源消费统计: link_text==资源消费统计
+统计报表－企业资源消费统计: link_text==企业资源消费统计
+统计报表－企业关系维护: link_text==企业关系维护
+统计报表－ON数量统计: link_text==ON数量统计
+统计报表－SKU数据统计: link_text==SKU数据统计
+统计报表－样品ON未满足视图: link_text==样品ON未满足视图
+统计报表－供应商评分: link_text==供应商评分
+统计报表－物料出货明细表: link_text==物料出货明细表
+统计报表－出货统计表: link_text==出货统计表
+统计报表－搜索词统计: link_text==搜索词统计
+统计报表－搜索行为日志: link_text==搜索行为日志
+统计报表－出库详情表: link_text==出库详情表
+统计报表－潜在需求表: link_text==潜在需求表
+统计报表－样品预测: link_text==样品预测
+统计报表－客户出货统计: link_text==客户出货统计
+统计报表－商品预测供需表: link_text==商品预测供需表
+统计报表－平台SDB: link_text==平台SDB
+统计报表－新平台SDB: link_text==新平台SDB
+统计报表－供应释放: link_text==供应释放
+统计报表－潜在需求SDB: link_text==潜在需求SDB
+统计报表－客户行为记录: link_text==客户行为记录
+统计报表－服务商行为记录: link_text==服务商行为记录
+统计报表－OT统计: link_text==OT统计
+
+邮件发送清单: link_text==邮件发送清单
+销售业绩归属: xpath==//span[contains(text(), '销售业绩归属')]
+销售业绩归属－业绩分成设置: link_text==业绩分成设置
+销售业绩归属－确认业绩比例: link_text==确认业绩比例
+销售业绩归属－录入业绩比例: link_text==录入业绩比例
+销售业绩归属－我的业绩分成: link_text==我的业绩分成
+DW核算管理: xpath==//span[contains(text(), 'DW核算管理')]
+DW核算管理－DW-PN设置: link_text==DW-PN设置
+DW核算管理－DW核算订单池: link_text==DW核算订单池
+DW核算管理－DIN分配池: link_text==DIN分配池
+DW核算管理－DW分配池: link_text==DW分配池
+设置: xpath==//span[contains(text(), '设置')]
+设置－客户标签管理: link_text==客户标签管理
+设置－供应商标签管理: link_text==供应商标签管理
+设置－品牌标签管理: link_text==品牌标签管理
+设置－第三方系统: link_text==第三方系统
+设置－第三方系统管理: link_text==第三方系统管理
+设置－第三方系统授权: link_text==第三方系统授权
+设置－审批流程管理: link_text==审批流程管理
+设置－组织架构: link_text==组织架构

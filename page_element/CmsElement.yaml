@@ -1,0 +1,141 @@
+# 登录页原始定位
+后台登录页: xpath==//*[@class="ant-card-head-title"]
+账号: xpath==//*[@id="mobile"]
+密码: xpath==//*[@id="password"]
+登录按钮: xpath==//*[@class="ant-btn ant-btn-primary"]
+登录失败: xpath==//*[@class="ant-form-explain"]
+
+登录成功: xpath==//a[@href='/content/cums/home']
+
+退出登录: xpath==//*[@class="anticon anticon-poweroff font18"]
+确认退出: xpath==//body/div[3]/div/div[2]/div/div[2]/div/div/div[2]/button[2]
+
+首页: link_text==首页
+首页-数据: xpath==//a[contains(@class,'homeNoticeTitle')]
+个人中心: link_text==个人中心
+公告发布: link_text==公告发布
+
+资讯生产: xpath==//span[contains(text(), '资讯生产')]
+资讯生产-作者: xpath==//span[contains(text(), '作者')]
+资讯生产-作者-提主题: link_text==提主题
+资讯生产-作者-待认领主题: link_text==待认领主题
+资讯生产-作者-已认领主题: link_text==已认领主题
+资讯生产-作者-我的文章: link_text==我的文章
+资讯生产-审核专家: xpath==//span[contains(text(), '审核专家')]
+资讯生产-审核专家-待认领文章: link_text==待认领文章
+资讯生产-审核专家-已认领文章: link_text==已认领文章
+资讯生产-审核专家-我审核的文章: link_text==我审核的文章
+资讯生产-资讯管理员: xpath==//span[contains(text(), '资讯管理员')]
+资讯生产-资讯管理员-待审核主题: link_text==待审核主题
+资讯生产-资讯管理员-已通过主题: link_text==已通过主题
+资讯生产-资讯管理员-未通过主题: link_text==未通过主题
+资讯生产-资讯管理员-待发布文章: link_text==待发布文章
+资讯生产-资讯管理员-已发布文章: link_text==已发布文章
+资讯生产-资讯管理员-未通过文章: link_text==未通过文章
+资讯生产-资讯管理员-已失效文章: link_text==已失效文章
+资讯生产-资讯管理员-管理设置: link_text==管理设置
+资讯生产-资讯管理员-导入主题: link_text==导入主题
+资讯生产-资讯管理员-关键词检查: link_text==关键词检查
+
+资料生产: xpath==//span[contains(text(), '资料生产')]
+资料生产-资料KEYIN: xpath==//span[contains(text(), '资料KEYIN')]
+资料生产-资料KEYIN-领取任务: link_text==领取任务
+资料生产-资料KEYIN-我的任务: link_text==我的任务
+资料生产-资料KEYIN-质检: link_text==质检
+资料生产-资料KEYIN-按厂牌质检: link_text==按厂牌质检
+资料生产-资料KEYIN-任务管理: link_text==任务管理
+资料生产-资料管理: xpath==//span[contains(text(), '资料管理')]
+资料生产-资料管理-新增资料: link_text==新增资料
+资料生产-资料管理-新资料管理: link_text==新资料管理
+资料生产-资料管理-待领取资料: link_text==待领取资料
+资料生产-资料管理-已领取资料: link_text==已领取资料
+资料生产-资料管理-批次管理: link_text==批次管理
+资料生产-资料管理-未发布资料: link_text==未发布资料
+资料生产-资料管理-已发布资料: link_text==已发布资料
+资料生产-资料管理-资料类型管理: link_text==资料类型管理
+资料生产-资料管理-标签规则设置: link_text==标签规则设置
+资料生产-资料管理-厂牌/类型匹配设置: link_text==厂牌/类型匹配设置
+资料生产-资料管理-作废文档管理: link_text==作废文档管理
+资料生产-资料管理-资料KEYIN总览: link_text==资料KEYIN总览
+资料生产-资料管理-质检数据总览: link_text==质检数据总览
+资料生产-资料管理-新质检数据总览: link_text==新质检数据总览
+资料生产-资料管理-新提取数据总览: link_text==新提取数据总览
+资料生产-新资料KEYIN: xpath==//span[contains(text(), '新资料KEYIN')]
+资料生产-新资料KEYIN-领取提取任务: link_text==领取提取任务
+资料生产-新资料KEYIN-我的提取: link_text==我的提取
+资料生产-新资料KEYIN-质检分批: link_text==质检分批
+资料生产-新资料KEYIN-批次抽样: link_text==批次抽样
+资料生产-新资料KEYIN-领取质检任务: link_text==领取质检任务
+资料生产-新资料KEYIN-我的质检: link_text==我的质检
+资料生产-新资料KEYIN-平台审核: link_text==平台审核
+资料生产-资料二次提取: xpath==//span[contains(text(), '资料二次提取')]
+资料生产-资料二次提取-领取任务: link_text==领取任务
+资料生产-资料二次提取-我的任务: link_text==我的任务
+资料生产-资料二次提取-质检: link_text==质检
+资料生产-资料二次提取-按厂牌质检: link_text==按厂牌质检
+资料生产-资料二次提取-任务管理: link_text==任务管理
+资料生产-资料二次提取-已领取资料: link_text==已领取资料
+资料生产-资料二次提取-待领取资料: link_text==待领取资料
+资料生产-资料二次提取-已完成资料: link_text==已完成资料
+资料生产-资料二次提取-预览日志明细: link_text==预览日志明细
+资料生产-资料二次提取-预览次数/分钟: link_text==预览次数/分钟
+资料生产-资料二次提取-二次提取总览: link_text==二次提取总览
+资料生产-资料翻译: xpath==//span[contains(text(), '资料翻译')]
+资料生产-资料翻译-待确认资料: link_text==待确认资料
+资料生产-资料翻译-领取资料: link_text==领取资料
+资料生产-资料翻译-我的资料: link_text==我的资料
+资料生产-资料翻译-翻译资料管理: link_text==翻译资料管理
+资料生产-资料翻译-翻译资料发布: link_text==翻译资料发布
+
+资料采集: xpath==//span[contains(text(), '资料采集')]
+资料采集-地址管理: link_text==地址管理
+资料采集-标题来源管理: link_text==标题来源管理
+资料采集-任务调度管理: link_text==任务调度管理
+资料采集-采集情况管理: link_text==采集情况管理
+资料采集-链接采集校验: link_text==链接采集校验
+资料采集-链接过滤校验: link_text==链接过滤校验
+资料采集-导入链接管理: link_text==导入链接管理
+资料采集-通用过滤字符管理: link_text==通用过滤字符管理
+
+新增资料管理: xpath==//span[contains(text(), '新增资料管理')]
+新增资料管理-资料管理: link_text==资料管理
+新增资料管理-疑似重复资料管理: link_text==疑似重复资料管理
+
+B台提交内容: xpath==//span[contains(text(), 'B台提交内容')]
+B台提交内容-文章: link_text==文章
+B台提交内容-资料: link_text==资料
+B台提交内容-选型表: link_text==选型表
+
+关键词翻译: xpath==//span[contains(text(), '关键词翻译')]
+关键词翻译-已翻译管理: link_text==已翻译管理
+关键词翻译-翻译替换管理: link_text==翻译替换管理
+
+资料发布: xpath==//span[contains(text(), '资料发布')]
+资料发布-资料发布: link_text==资料发布
+资料发布-原词有误处理: link_text==原词有误处理
+
+发布资料去重: xpath==//span[contains(text(), '发布资料去重')]
+发布资料去重-重复资料: link_text==重复资料
+发布资料去重-疑似重复资料: link_text==疑似重复资料
+
+内容结算: xpath==//span[contains(text(), '内容结算')]
+内容结算-资讯结算: xpath==//span[contains(text(), '资讯结算')]
+内容结算-资讯结算-资讯结算报表: link_text==资讯结算报表
+内容结算-资讯结算-资讯计费规则配置: link_text==资讯计费规则配置
+内容结算-资讯结算-资讯计费原始报表: link_text==资讯计费原始报表
+内容结算-资料KEYIN结算: xpath==//span[contains(text(), '资料KEYIN结算')]
+内容结算-资料KEYIN结算-KEYIN结算报表: link_text==KEYIN结算报表
+内容结算-资料KEYIN结算-KEYIN规则配置: link_text==KEYIN规则配置
+内容结算-资料KEYIN结算-KEYIN原始报表: link_text==KEYIN原始报表
+内容结算-资料翻译结算: xpath==//span[contains(text(), '资料翻译结算')]
+内容结算-资料翻译结算-翻译结算报表: link_text==翻译结算报表
+内容结算-资料翻译结算-翻译规则配置: link_text==翻译规则配置
+内容结算-资料翻译结算-翻译原始报表: link_text==翻译原始报表
+内容结算-内容计费规则审核: link_text==内容计费规则审核
+
+视频管理: xpath==//span[contains(text(), '视频管理')]
+视频管理-视频素材管理: link_text==视频素材管理
+视频管理-视频成品管理: link_text==视频成品管理
+
+设置: xpath==//span[contains(text(), '设置')]
+设置-用户管理: link_text==用户管理

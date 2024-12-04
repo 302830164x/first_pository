@@ -1,0 +1,115 @@
+#首页
+搜索框: id==searchText
+搜索按钮: id==searchBtn
+登录框: id==modal_login
+首页: xpath==//*[@id="search"]/div[1]/a
+首页图标: xpath==//a[@class='header-logo-a']
+首页热门橱窗: xpath==//span[@id='index-hot']/a
+首页电子商城橱窗: xpath==//span[@id='index-buy']/a
+首页新技术橱窗: xpath==//span[@id='index-newProduct']/a
+
+
+#英文站
+英文站首页: xpath==//div[@id='main_navigation']//a[1]
+英文站新产品页: xpath==//a[@id='search_new_product']
+英文站合作页: xpath==(//a[@href='https://en.sekorm.com/ecoPartners/index'])[1]
+英文站商城页: xpath==//a[@id='search_shopping_mall']
+
+#热门
+热门: link_text==热门
+热门-汽车电子: xpath==(//div[@class='sub-navigation clearfix layout-12x'])[1]//a[contains(text(),'汽车电子')]
+首页轮播图: xpath==//*[@class="swiper-container"]
+首页轮播图上一页: xpath==//*[@class="swiper-button swiper-button-prev"]
+轮播图照片: xpath==//div[@class='swiper-slide home-banner swiper-slide-visible swiper-slide-active']/a/img
+1000家banner: xpath==//img[@alt='1000家banner']
+研发服务banner: xpath==//img[@alt='研发服务banner']
+供应服务banner: xpath==//img[@alt='供应服务banner']
+首页轮播图下一页: xpath==//*[@class="swiper-button swiper-button-next"]
+型号清单-0: xpath==//em[normalize-space()='0']
+型号清单: xpath==//a[@class='checklist-cart']
+购买清单: xpath==//a[@class='checklist-cart']
+登录: xpath==//a[contains(text(),'登录')]
+注册: xpath==//a[contains(text(),'注册')]
+个人中心: xpath==//a[@id='index_mem_info']
+历史记录模块: xpath==//a[@id='index_mem_history']
+历史记录内容: xpath==//p[contains(text(),'目前还没浏览过任何内容')]
+世强硬创平台使用许可协议: xpath==//a[@id='licenseMap']
+世强硬创平台隐私政策: xpath==//a[@id='privacyMap']
+世强硬创平台出口声明: xpath==//a[@id='exportMap']
+站点地图: xpath==//a[@href='https://www.sekorm.com/sitemap.html']
+English: xpath==//a[normalize-space()='English']
+备案号: xpath==//a[contains(text(),'粤ICP备05117344号')]
+许可证: xpath==//a[contains(text(),'电信增值业务许可证：粤B2-20200964')]
+悬浮按钮-研发客服: xpath==//a[@id='side_live_chat_1']
+悬浮按钮-商务客服: xpath==//a[@id='side_live_chat_2']
+悬浮按钮-服务热线: xpath==//a[@id='side_contact_us']
+悬浮按钮-收藏: xpath==//a[@id='side_collect_box']
+技术资料频道: xpath==//a[@href='https://www.sekorm.com/news/ziliao/']
+公司简介: link_text==公司简介
+文化与愿景: link_text==文化与愿景
+企业里程碑: link_text==企业里程碑
+联系我们: link_text==联系我们
+客户与服务: link_text==客户与服务
+楼层广告1: xpath==(//a[@class='ad-position-left'])[1]/img
+楼层广告2: xpath==(//a[@class='ad-position-right'])[1]/img
+楼层广告3: xpath==(//a[@class='ad-position-left'])[2]/img
+楼层广告4: xpath==(//a[@class='ad-position-right'])[2]/img
+热门楼层内容: xpath==//div[@class='same-element subscribe index-font-size']//img
+新技术楼层内容: xpath==//div[@class='new-element same-element index-font-size']//img
+电子商城楼层内容: xpath==//div[@class='supply index-font-size']//div[@class='card-item js-card-item']//img
+技术资料楼层内容: xpath==//div[@class='same-element new-data index-font-size']//img
+加工定制楼层内容: xpath==//div[@class='research index-font-size'][1]//img
+技术问答楼层内容: xpath==//div[@class='technical-support index-font-size']//ul//a
+采购服务楼层内容: xpath==//div[@class='research index-font-size'][2]//img
+合作楼层内容: xpath==//div[@class='research index-font-size'][3]//img
+授权品牌楼层内容: xpath==//div[@class='banner-brand-content clearfix']//img
+
+#新技术
+新技术: link_text==新技术
+新技术-EDA软件: xpath==(//div[@class='sub-navigation clearfix layout-12x'])[2]//a[contains(text(),'EDA软件')]
+
+#电子商城
+电子商城: link_text==电子商城
+电子商城-IC: xpath==(//div[@class='sub-navigation clearfix layout-12x'])[3]//a[normalize-space()='IC']
+
+#加工定制
+加工定制: link_text==加工定制
+
+#技术问答
+技术问答: link_text==技术问答
+
+#采购服务
+采购服务: link_text==采购服务
+
+#现货市场
+现货市场: link_text==现货市场
+
+#合作
+合作: link_text==合作
+
+#代理品牌
+代理品牌: link_text==品牌原厂
+
+#主搜-厂牌场景
+搜索词: xpath==//input[@id='searchWord']
+主搜厂牌场景授权代理商: xpath==//span[@class='supplier']
+主搜厂牌场景小类: xpath==//span[contains(@class,'weight-type')]
+主搜厂牌场景品牌介绍: xpath==//*[@class="brand-desc-list mt10 clearfix"]
+主搜厂牌场景品牌介绍描述: xpath==//p[@class='two-line-omission']/a
+主搜厂牌场景品牌介绍logo: xpath==//div[@class='item-img-wrap']//img
+主搜厂牌场景品牌介绍查看更多: xpath==//a[@class='show-more']
+主搜厂牌场景品牌介绍品类: class==search-tag-wrap
+主搜厂牌场景服务通栏: class==cd-service-tool
+主搜厂牌场景右侧商城: xpath==//*[@id="searchRightSupply-mall"]/div
+主搜厂牌场景右侧市场: xpath==//*[@id="searchRightSupply-market"]/div
+主搜厂牌场景品牌介绍品类微压力传感器: xpath==//a[text()="微压力传感器"]
+主搜厂牌场景品牌介绍品类中低压力传感器: xpath==//a[text()="中低压力传感器"]
+主搜厂牌场景品牌介绍品类汽车级压力传感器: xpath==//a[text()="汽车级压力传感器"]
+主搜厂牌场景品牌介绍品类线对板连接器: xpath==//a[text()="线对板连接器"]
+主搜厂牌场景品牌介绍品类板对板连接器: xpath==//a[text()="板对板连接器"]
+主搜厂牌场景品牌介绍品类线对线连接器: xpath==//a[text()="线对线连接器"]
+主搜厂牌场景品牌介绍品类圆形连接器: xpath==//a[text()="圆形连接器"]
+主搜厂牌场景品牌介绍品类电机连接器: xpath==//a[text()="电机连接器"]
+主搜厂牌场景品牌介绍品类背板连接器: xpath==//a[text()="背板连接器"]
+主搜厂牌场景品牌介绍品类高速线连接器: xpath==//a[text()="高速线连接器"]
+主搜厂牌场景品牌介绍授权代理商: class==supplier-name

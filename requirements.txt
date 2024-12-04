@@ -1,0 +1,12 @@
+requests~=2.26.0
+selenium~=4.1.0
+colorlog~=6.7.0
+PyYAML~=6.0
+pytest~=7.3.2
+pyautogui~=0.9.54
+webdriver-manager~=3.8.6
+pytest-xdist~=2.5.0
+pytest-rerunfailures~=11.1.2
+Pillow~=9.5.0
+UnittestZero~=0.2.0
+filelock~=3.12.2

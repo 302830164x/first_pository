@@ -1,0 +1,159 @@
+INFO	2024-11-21 10:14:11,767	[basepage.py:106]	打开网页：https://testopeneco1.cekom.com.cn:447/content/login
+INFO	2024-11-21 10:14:12,024	[basepage.py:115]	输入文本：15766139640
+INFO	2024-11-21 10:14:12,217	[basepage.py:115]	输入文本：15766139640
+INFO	2024-11-21 10:14:12,250	[basepage.py:173]	滑动滚动条将元素：('xpath', "//*[@type='submit']")滑到中间
+INFO	2024-11-21 10:14:12,547	[basepage.py:122]	点击元素：('xpath', "//*[@type='submit']")
+INFO	2024-11-21 10:14:12,899	[basepage.py:106]	打开网页：https://testopeneco1.cekom.com.cn:447/content/sums/userCenter
+INFO	2024-11-21 10:14:23,917	[conftest.py:180]	失败用例名称为：test_go_projectpush
+INFO	2024-11-21 10:15:50,592	[basepage.py:106]	打开网页：https://testopeneco1.cekom.com.cn:447/content/login
+INFO	2024-11-21 10:15:50,832	[basepage.py:115]	输入文本：15766139640
+INFO	2024-11-21 10:15:51,003	[basepage.py:115]	输入文本：15766139640
+INFO	2024-11-21 10:15:51,032	[basepage.py:173]	滑动滚动条将元素：('xpath', "//*[@type='submit']")滑到中间
+INFO	2024-11-21 10:15:51,336	[basepage.py:122]	点击元素：('xpath', "//*[@type='submit']")
+INFO	2024-11-21 10:15:52,472	[basepage.py:106]	打开网页：https://testopeneco1.cekom.com.cn:447/content/sums/userCenter
+INFO	2024-11-21 10:15:52,550	[basepage.py:173]	滑动滚动条将元素：('link_text', '项目推送')滑到中间
+INFO	2024-11-21 10:15:55,308	[basepage.py:122]	点击元素：('link_text', '项目推送')
+INFO	2024-11-21 10:15:55,363	[basepage.py:146]	获取文本：推送给我的需求
+INFO	2024-11-21 10:15:55,387	[basepage.py:173]	滑动滚动条将元素：{'xpath', '//div[@title="推送给我的需求"]'}滑到中间
+INFO	2024-11-21 10:15:55,683	[basepage.py:122]	点击元素：{'xpath', '//div[@title="推送给我的需求"]'}
+INFO	2024-11-21 10:16:34,441	[basepage.py:106]	打开网页：https://testopeneco1.cekom.com.cn:447/content/login
+INFO	2024-11-21 10:16:34,701	[basepage.py:115]	输入文本：15766139640
+INFO	2024-11-21 10:16:34,879	[basepage.py:115]	输入文本：15766139640
+INFO	2024-11-21 10:16:34,903	[basepage.py:173]	滑动滚动条将元素：('xpath', "//*[@type='submit']")滑到中间
+INFO	2024-11-21 10:16:35,212	[basepage.py:122]	点击元素：('xpath', "//*[@type='submit']")
+INFO	2024-11-21 10:16:36,479	[basepage.py:106]	打开网页：https://testopeneco1.cekom.com.cn:447/content/sums/userCenter
+INFO	2024-11-21 10:16:36,597	[basepage.py:173]	滑动滚动条将元素：('link_text', '项目推送')滑到中间
+INFO	2024-11-21 10:16:39,489	[basepage.py:122]	点击元素：('link_text', '项目推送')
+INFO	2024-11-21 10:16:39,539	[basepage.py:146]	获取文本：推送给我的需求
+INFO	2024-11-21 10:16:39,807	[conftest.py:180]	失败用例名称为：test_go_projectpush
+INFO	2024-11-21 10:17:27,235	[basepage.py:106]	打开网页：https://testopeneco1.cekom.com.cn:447/content/login
+INFO	2024-11-21 10:17:29,516	[basepage.py:115]	输入文本：15766139640
+INFO	2024-11-21 10:17:29,693	[basepage.py:115]	输入文本：15766139640
+INFO	2024-11-21 10:17:29,717	[basepage.py:173]	滑动滚动条将元素：('xpath', "//*[@type='submit']")滑到中间
+INFO	2024-11-21 10:17:30,005	[basepage.py:122]	点击元素：('xpath', "//*[@type='submit']")
+INFO	2024-11-21 10:17:32,093	[basepage.py:106]	打开网页：https://testopeneco1.cekom.com.cn:447/content/sums/userCenter
+INFO	2024-11-21 10:17:32,218	[basepage.py:173]	滑动滚动条将元素：('link_text', '项目推送')滑到中间
+INFO	2024-11-21 10:17:35,199	[basepage.py:122]	点击元素：('link_text', '项目推送')
+INFO	2024-11-21 10:17:35,254	[basepage.py:146]	获取文本：推送给我的需求
+INFO	2024-11-21 10:17:35,518	[conftest.py:180]	失败用例名称为：test_go_projectpush
+INFO	2024-11-21 10:18:29,509	[basepage.py:106]	打开网页：https://testopeneco1.cekom.com.cn:447/content/login
+INFO	2024-11-21 10:18:29,798	[basepage.py:115]	输入文本：15766139640
+INFO	2024-11-21 10:18:29,983	[basepage.py:115]	输入文本：15766139640
+INFO	2024-11-21 10:18:30,007	[basepage.py:173]	滑动滚动条将元素：('xpath', "//*[@type='submit']")滑到中间
+INFO	2024-11-21 10:18:30,301	[basepage.py:122]	点击元素：('xpath', "//*[@type='submit']")
+INFO	2024-11-21 10:18:31,954	[basepage.py:106]	打开网页：https://testopeneco1.cekom.com.cn:447/content/sums/userCenter
+INFO	2024-11-21 10:18:32,104	[basepage.py:173]	滑动滚动条将元素：('link_text', '项目推送')滑到中间
+INFO	2024-11-21 10:18:35,011	[basepage.py:122]	点击元素：('link_text', '项目推送')
+INFO	2024-11-21 10:18:35,064	[basepage.py:146]	获取文本：推送给我的需求
+INFO	2024-11-21 10:18:35,327	[conftest.py:180]	失败用例名称为：test_go_projectpush
+INFO	2024-11-21 10:27:40,939	[basepage.py:106]	打开网页：https://testopeneco1.cekom.com.cn:447/content/login
+INFO	2024-11-21 10:27:41,241	[basepage.py:115]	输入文本：15766139640
+INFO	2024-11-21 10:27:41,423	[basepage.py:115]	输入文本：15766139640
+INFO	2024-11-21 10:27:41,446	[basepage.py:173]	滑动滚动条将元素：('xpath', "//*[@type='submit']")滑到中间
+INFO	2024-11-21 10:27:41,747	[basepage.py:122]	点击元素：('xpath', "//*[@type='submit']")
+INFO	2024-11-21 10:27:43,297	[basepage.py:106]	打开网页：https://testopeneco1.cekom.com.cn:447/content/sums/userCenter
+INFO	2024-11-21 10:27:43,488	[basepage.py:173]	滑动滚动条将元素：('link_text', '项目推送')滑到中间
+INFO	2024-11-21 10:27:46,442	[basepage.py:122]	点击元素：('link_text', '项目推送')
+INFO	2024-11-21 10:27:46,505	[basepage.py:146]	获取文本：推送给我的需求
+INFO	2024-11-21 10:27:46,789	[conftest.py:180]	失败用例名称为：test_go_projectpush
+INFO	2024-11-21 10:28:22,217	[basepage.py:106]	打开网页：https://testopeneco1.cekom.com.cn:447/content/login
+INFO	2024-11-21 10:28:22,462	[basepage.py:115]	输入文本：15766139640
+INFO	2024-11-21 10:28:22,713	[basepage.py:115]	输入文本：15766139640
+INFO	2024-11-21 10:28:22,745	[basepage.py:173]	滑动滚动条将元素：('xpath', "//*[@type='submit']")滑到中间
+INFO	2024-11-21 10:28:23,042	[basepage.py:122]	点击元素：('xpath', "//*[@type='submit']")
+INFO	2024-11-21 10:28:25,225	[basepage.py:106]	打开网页：https://testopeneco1.cekom.com.cn:447/content/sums/userCenter
+INFO	2024-11-21 10:28:25,367	[basepage.py:173]	滑动滚动条将元素：('link_text', '项目推送')滑到中间
+INFO	2024-11-21 10:28:28,306	[basepage.py:122]	点击元素：('link_text', '项目推送')
+INFO	2024-11-21 10:28:28,361	[basepage.py:146]	获取文本：推送给我的需求
+INFO	2024-11-21 10:28:28,638	[conftest.py:180]	失败用例名称为：test_go_projectpush
+INFO	2024-11-21 10:29:34,414	[basepage.py:106]	打开网页：https://testopeneco1.cekom.com.cn:447/content/login
+INFO	2024-11-21 10:29:34,655	[basepage.py:115]	输入文本：15766139640
+INFO	2024-11-21 10:29:34,831	[basepage.py:115]	输入文本：15766139640
+INFO	2024-11-21 10:29:34,855	[basepage.py:173]	滑动滚动条将元素：('xpath', "//*[@type='submit']")滑到中间
+INFO	2024-11-21 10:29:35,143	[basepage.py:122]	点击元素：('xpath', "//*[@type='submit']")
+INFO	2024-11-21 10:29:36,133	[basepage.py:106]	打开网页：https://testopeneco1.cekom.com.cn:447/content/sums/userCenter
+INFO	2024-11-21 10:29:36,346	[basepage.py:173]	滑动滚动条将元素：('link_text', '项目推送')滑到中间
+INFO	2024-11-21 10:29:39,242	[basepage.py:122]	点击元素：('link_text', '项目推送')
+INFO	2024-11-21 10:29:39,294	[basepage.py:146]	获取文本：推送给我的需求
+INFO	2024-11-21 10:29:40,570	[conftest.py:180]	失败用例名称为：test_go_projectpush
+INFO	2024-11-21 10:33:08,641	[basepage.py:106]	打开网页：https://testopeneco1.cekom.com.cn:447/content/login
+INFO	2024-11-21 10:33:08,893	[basepage.py:115]	输入文本：15766139640
+INFO	2024-11-21 10:33:09,072	[basepage.py:115]	输入文本：15766139640
+INFO	2024-11-21 10:33:09,096	[basepage.py:173]	滑动滚动条将元素：('xpath', "//*[@type='submit']")滑到中间
+INFO	2024-11-21 10:33:09,396	[basepage.py:122]	点击元素：('xpath', "//*[@type='submit']")
+INFO	2024-11-21 10:33:10,539	[basepage.py:106]	打开网页：https://testopeneco1.cekom.com.cn:447/content/sums/userCenter
+INFO	2024-11-21 10:33:10,797	[basepage.py:173]	滑动滚动条将元素：('link_text', '项目推送')滑到中间
+INFO	2024-11-21 10:33:13,697	[basepage.py:122]	点击元素：('link_text', '项目推送')
+INFO	2024-11-21 10:33:13,752	[basepage.py:146]	获取文本：推送给我的需求
+INFO	2024-11-21 10:33:14,011	[conftest.py:180]	失败用例名称为：test_go_projectpush
+INFO	2024-11-21 10:39:25,802	[basepage.py:106]	打开网页：https://testopeneco1.cekom.com.cn:447/content/login
+INFO	2024-11-21 10:39:26,018	[basepage.py:115]	输入文本：15766139640
+INFO	2024-11-21 10:39:26,189	[basepage.py:115]	输入文本：15766139640
+INFO	2024-11-21 10:39:26,217	[basepage.py:173]	滑动滚动条将元素：('xpath', "//*[@type='submit']")滑到中间
+INFO	2024-11-21 10:39:26,508	[basepage.py:122]	点击元素：('xpath', "//*[@type='submit']")
+INFO	2024-11-21 10:39:27,840	[basepage.py:106]	打开网页：https://testopeneco1.cekom.com.cn:447/content/sums/userCenter
+INFO	2024-11-21 10:39:27,949	[basepage.py:173]	滑动滚动条将元素：('link_text', '项目推送')滑到中间
+INFO	2024-11-21 10:39:30,851	[basepage.py:122]	点击元素：('link_text', '项目推送')
+INFO	2024-11-21 10:39:30,906	[basepage.py:146]	获取文本：推送给我的需求
+INFO	2024-11-21 10:39:30,933	[basepage.py:173]	滑动滚动条将元素：('xpath', '//div[@title="推送给我的需求"]')滑到中间
+INFO	2024-11-21 10:39:31,215	[basepage.py:122]	点击元素：('xpath', '//div[@title="推送给我的需求"]')
+INFO	2024-11-21 10:39:32,492	[conftest.py:180]	失败用例名称为：test_go_projectpush
+INFO	2024-11-21 10:40:18,842	[basepage.py:106]	打开网页：https://testopeneco1.cekom.com.cn:447/content/login
+INFO	2024-11-21 10:40:19,127	[basepage.py:115]	输入文本：15766139640
+INFO	2024-11-21 10:40:19,310	[basepage.py:115]	输入文本：15766139640
+INFO	2024-11-21 10:40:19,336	[basepage.py:173]	滑动滚动条将元素：('xpath', "//*[@type='submit']")滑到中间
+INFO	2024-11-21 10:40:19,621	[basepage.py:122]	点击元素：('xpath', "//*[@type='submit']")
+INFO	2024-11-21 10:40:20,411	[basepage.py:106]	打开网页：https://testopeneco1.cekom.com.cn:447/content/sums/userCenter
+INFO	2024-11-21 10:40:20,516	[basepage.py:173]	滑动滚动条将元素：('link_text', '项目推送')滑到中间
+INFO	2024-11-21 10:40:23,437	[basepage.py:122]	点击元素：('link_text', '项目推送')
+INFO	2024-11-21 10:40:23,486	[basepage.py:146]	获取文本：推送给我的需求
+INFO	2024-11-21 10:40:23,514	[basepage.py:173]	滑动滚动条将元素：('xpath', '//div[@title="推送给我的需求"]')滑到中间
+INFO	2024-11-21 10:40:23,800	[basepage.py:122]	点击元素：('xpath', '//div[@title="推送给我的需求"]')
+INFO	2024-11-21 10:40:27,616	[basepage.py:173]	滑动滚动条将元素：('xpath', '//div[@title="推送给公司的需求"]')滑到中间
+INFO	2024-11-21 10:40:27,914	[basepage.py:122]	点击元素：('xpath', '//div[@title="推送给公司的需求"]')
+INFO	2024-11-21 10:41:21,768	[basepage.py:106]	打开网页：https://testopeneco1.cekom.com.cn:447/content/login
+INFO	2024-11-21 10:41:22,024	[basepage.py:115]	输入文本：15766139640
+INFO	2024-11-21 10:41:22,204	[basepage.py:115]	输入文本：15766139640
+INFO	2024-11-21 10:41:22,225	[basepage.py:173]	滑动滚动条将元素：('xpath', "//*[@type='submit']")滑到中间
+INFO	2024-11-21 10:41:22,516	[basepage.py:122]	点击元素：('xpath', "//*[@type='submit']")
+INFO	2024-11-21 10:41:23,297	[basepage.py:106]	打开网页：https://testopeneco1.cekom.com.cn:447/content/sums/userCenter
+INFO	2024-11-21 10:41:23,399	[basepage.py:173]	滑动滚动条将元素：('link_text', '项目推送')滑到中间
+INFO	2024-11-21 10:41:26,368	[basepage.py:122]	点击元素：('link_text', '项目推送')
+INFO	2024-11-21 10:41:26,423	[basepage.py:146]	获取文本：推送给我的需求
+INFO	2024-11-21 10:41:26,446	[basepage.py:173]	滑动滚动条将元素：('xpath', '//div[@title="推送给我的需求"]')滑到中间
+INFO	2024-11-21 10:41:26,744	[basepage.py:122]	点击元素：('xpath', '//div[@title="推送给我的需求"]')
+INFO	2024-11-21 10:41:38,680	[conftest.py:180]	失败用例名称为：test_go_projectpush
+INFO	2024-11-21 10:42:37,254	[basepage.py:106]	打开网页：https://testopeneco1.cekom.com.cn:447/content/login
+INFO	2024-11-21 10:42:37,500	[basepage.py:115]	输入文本：15766139640
+INFO	2024-11-21 10:42:37,684	[basepage.py:115]	输入文本：15766139640
+INFO	2024-11-21 10:42:37,711	[basepage.py:173]	滑动滚动条将元素：('xpath', "//*[@type='submit']")滑到中间
+INFO	2024-11-21 10:42:38,001	[basepage.py:122]	点击元素：('xpath', "//*[@type='submit']")
+INFO	2024-11-21 10:42:38,881	[basepage.py:106]	打开网页：https://testopeneco1.cekom.com.cn:447/content/sums/userCenter
+INFO	2024-11-21 10:42:38,934	[basepage.py:173]	滑动滚动条将元素：('link_text', '项目推送')滑到中间
+INFO	2024-11-21 10:42:41,768	[basepage.py:122]	点击元素：('link_text', '项目推送')
+INFO	2024-11-21 10:42:41,819	[basepage.py:146]	获取文本：推送给我的需求
+INFO	2024-11-21 10:42:41,849	[basepage.py:173]	滑动滚动条将元素：('xpath', '//div[@title="推送给我的需求"]')滑到中间
+INFO	2024-11-21 10:42:42,129	[basepage.py:122]	点击元素：('xpath', '//div[@title="推送给我的需求"]')
+INFO	2024-11-21 10:42:57,954	[conftest.py:180]	失败用例名称为：test_go_projectpush
+INFO	2024-11-21 10:44:01,249	[basepage.py:106]	打开网页：https://testopeneco1.cekom.com.cn:447/content/login
+INFO	2024-11-21 10:44:01,506	[basepage.py:115]	输入文本：15766139640
+INFO	2024-11-21 10:44:01,708	[basepage.py:115]	输入文本：15766139640
+INFO	2024-11-21 10:44:01,730	[basepage.py:173]	滑动滚动条将元素：('xpath', "//*[@type='submit']")滑到中间
+INFO	2024-11-21 10:44:02,017	[basepage.py:122]	点击元素：('xpath', "//*[@type='submit']")
+INFO	2024-11-21 10:44:03,061	[basepage.py:106]	打开网页：https://testopeneco1.cekom.com.cn:447/content/sums/userCenter
+INFO	2024-11-21 10:44:03,225	[basepage.py:173]	滑动滚动条将元素：('link_text', '项目推送')滑到中间
+INFO	2024-11-21 10:44:06,250	[basepage.py:122]	点击元素：('link_text', '项目推送')
+INFO	2024-11-21 10:44:06,301	[basepage.py:146]	获取文本：推送给我的需求
+INFO	2024-11-21 10:44:06,329	[basepage.py:173]	滑动滚动条将元素：('xpath', '//div[@title="推送给我的需求"]')滑到中间
+INFO	2024-11-21 10:44:06,611	[basepage.py:122]	点击元素：('xpath', '//div[@title="推送给我的需求"]')
+INFO	2024-11-21 10:45:05,024	[basepage.py:106]	打开网页：https://testopeneco1.cekom.com.cn:447/content/login
+INFO	2024-11-21 10:45:05,288	[basepage.py:115]	输入文本：15766139640
+INFO	2024-11-21 10:45:05,474	[basepage.py:115]	输入文本：15766139640
+INFO	2024-11-21 10:45:05,501	[basepage.py:173]	滑动滚动条将元素：('xpath', "//*[@type='submit']")滑到中间
+INFO	2024-11-21 10:45:05,790	[basepage.py:122]	点击元素：('xpath', "//*[@type='submit']")
+INFO	2024-11-21 10:45:06,659	[basepage.py:106]	打开网页：https://testopeneco1.cekom.com.cn:447/content/sums/userCenter
+INFO	2024-11-21 10:45:06,718	[basepage.py:173]	滑动滚动条将元素：('link_text', '项目推送')滑到中间
+INFO	2024-11-21 10:45:09,666	[basepage.py:122]	点击元素：('link_text', '项目推送')
+INFO	2024-11-21 10:45:09,724	[basepage.py:146]	获取文本：推送给我的需求
+INFO	2024-11-21 10:45:09,746	[basepage.py:173]	滑动滚动条将元素：('xpath', '//div[@title="推送给我的需求"]')滑到中间
+INFO	2024-11-21 10:45:10,027	[basepage.py:122]	点击元素：('xpath', '//div[@title="推送给我的需求"]')
